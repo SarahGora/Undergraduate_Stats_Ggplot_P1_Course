@@ -82,3 +82,4 @@ ggplot(midwest, aes(x=area, y=poptotal)) +
 
 #How to save Figure
 #export as image or save to PDF
+
